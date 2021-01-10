@@ -5,7 +5,7 @@ A Case Study of STM32F100R4T6B
 
 # About  STM32F100R4T6B
 
- ![ST_LQFP64_200](https://user-images.githubusercontent.com/55251741/104124197-6a062a00-5375-11eb-9003-e584399544c4.jpg)
+ <p align="center"><https://user-images.githubusercontent.com/55251741/104124197-6a062a00-5375-11eb-9003-e584399544c4.jpg /></p>
 
 
 Core Processor	ARM® Cortex®-M3	
