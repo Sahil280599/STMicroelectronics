@@ -1,11 +1,12 @@
-# STMicroelectronics
-A Case Study of STM32F100R4T6B
+# STMicroelectronics 
+<p align = "center">A Case Study of STM32F100R4T6B
 
  Case Study file Attached above-
+ 
 
 # About  STM32F100R4T6B
 
-![unnamed](https://user-images.githubusercontent.com/55251741/104328847-44faee00-5512-11eb-970b-1909c160d796.jpg)
+![unnamed](https://user-images.githubusercontent.com/55251741/104328847-44faee00-5512-11eb-970b-1909c160d796.jpg) </p>
 
 Refer Datasheet : https://www.st.com/resource/en/datasheet/stm32f100cb.pdf
 
